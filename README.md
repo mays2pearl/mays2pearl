@@ -34,7 +34,7 @@
    
 </div>
   
-<img align="right" height="200" style="border-radius:200px;" src="https://media.discordapp.net/attachments/882496817550483510/882497507605757962/image0.gif">
+<img align="right" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/882496817550483510/882497507605757962/image0.gif">
   
 
   
