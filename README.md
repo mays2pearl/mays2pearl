@@ -6,9 +6,9 @@
 - 👯  Voluntaria nos escoteiros do Brasil
 - 📫  Email: maysa.binho.perola@hotmail.com
 - 😄  (Ela/She)...
-<img align="right" height="400" style="border-radius:200px;" src="https://media.discordapp.net/attachments/882496817550483510/882497507605757962/image0.gif">
+
   #  
- <b>Tecnologias</b>
+ <b>Tecnologias</b><img align="right" height="200" style="border-radius:200px;" src="https://media.discordapp.net/attachments/882496817550483510/882497507605757962/image0.gif">
   
   <p align="left">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -31,6 +31,7 @@
   <a href="https://github.com/mays2pearl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mays2pearl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mays2pearl&layout=compact&langs_count=7&theme=dracula"/>
+ 
    
 </div>
   
