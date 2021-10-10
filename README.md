@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/googleanalytics-yellow?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"> 
