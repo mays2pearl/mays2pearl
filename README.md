@@ -7,7 +7,7 @@
 - 📫  Email: maysa.binho.perola@hotmail.com
 - 😄  (Ela/She)...
 
-
+  #
   #  
  <b>Tecnologias</b>
   
