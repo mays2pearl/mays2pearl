@@ -1,7 +1,7 @@
-### Olá! Você esta no GitHub da Maysa Andrade👋
+### Olá! Você esta no GitHub da Maysa Andrade👋         <img align="right" height="300" style="border-radius:400px;" src="https://media.discordapp.net/attachments/882496817550483510/901104107471896637/gato2.gif?width=473&height=473">
 
 
-- 🔭  Estou em busca de uma colocação no mercado de trabalho - área de tecnologia <img align="right" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/882496817550483510/901104107471896637/gato2.gif?width=473&height=473">
+- 🔭  Estou em busca de uma colocação no mercado de trabalho - área de tecnologia 
 - 🌱  Desenvolvedora Java FullStack | Developer IOS Mobile
 - 👯  Voluntaria nos escoteiros do Brasil
 - 📫  Email: maysa.binho.perola@hotmail.com
