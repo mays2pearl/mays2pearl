@@ -1,11 +1,9 @@
 ### Olá! Você esta no GitHub da Maysa Andrade👋 
 
 #
-#
 
 <img align="center" height="300" width='1000' src="https://cdn.discordapp.com/attachments/882496817550483510/905932694163181609/IMG_0564.gif">
 
-#
 #
 
 - 🔭  Estou em busca de uma colocação no mercado de trabalho - área de tecnologia 
