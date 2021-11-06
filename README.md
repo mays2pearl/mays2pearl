@@ -9,7 +9,7 @@
 - 🔭  Estou em busca de uma colocação no mercado de trabalho - área de tecnologia 
 - 🌱  Desenvolvedora Java FullStack | Developer IOS Mobile
 - 👯  Voluntaria nos escoteiros do Brasil
-- 📫  Email: maysa.binho.perola@hotmail.com
+- 📫  Site Portfólio - https://portfolio-may.netlify.app/
 - 😄  (Ela/She)...
 
   #
