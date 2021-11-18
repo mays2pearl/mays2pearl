@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Html-FA2A02?style=for-the-badge&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REACT-5ccfee?style=for-the-badge&logo=react&logoColor=black"/>
 
     
  
