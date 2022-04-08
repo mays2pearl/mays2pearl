@@ -6,7 +6,7 @@
 
 #
 
-- 🔭  Estou em busca de uma colocação no mercado de trabalho - área de tecnologia 
+- 🔭  Assoc, Back-End Developer - Avanade Brasil 
 - 🌱  Desenvolvedora Java FullStack | Developer IOS Mobile
 - 👯  Voluntaria nos escoteiros do Brasil
 - 📫  Site Portfólio - https://portfolio-may.netlify.app/
